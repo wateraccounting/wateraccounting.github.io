@@ -8,7 +8,7 @@ Irrigation performance assessments were implemented in three countries, Kenya, S
 
 [![Button]][Link4]
 
-![IrrigPerfAss] (docs/img/Dashboard_screenshot.png)
+![IrrigPerfAss] (img/Dashboard_screenshot.png)
 
 ## Drought Observe
 DroughtObserve is a dashboard developed under the WaterPIP project that monitors and forecasts drought at national and sub-national level using FAO WaPOR data. More information [here](https://github.com/wateraccounting/droughtobserve)
