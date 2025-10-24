@@ -1,7 +1,7 @@
 # Dashboards
 Welcome to IHE Delft Water Accounting team's dashboard overview. Since 2020, IHE Delft has been working on utilising WaPOR data to support agricultural and water management. Various results and products are presented in dashboards. This webpages provides an overview of a number of these dashboards.
 
-for more information contact wateraccounting_project@un-ihe.org or check wateraccounting.un-ihe.org
+for more information contact wateraccounting_project@un-ihe.org or check [wateraccounting.un-ihe.org](wateraccounting.un-ihe.org)
 
 ## Irrigation Performance Assessment
 Irrigation performance assessments were implemented in three countries, Kenya, Sudan and Egypt (more countries ongoing). These dashboards utilise a standardised python script and StreamLit dashboard execution. 
