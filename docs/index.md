@@ -35,3 +35,14 @@ A dashboard that calculates agricultural water productivity over irrigated crop 
 [Link1]: https://wateraccounting.github.io/droughtobserve/
 [Button]: https://img.shields.io/badge/View_Dashboard!-37a779?style=for-the-badge
 [Link4]: https://mwea-ipa.streamlit.app/
+
+## PI-Advisor
+PI-Advisor is currently under construction. At this moment, it is available as a viewer for the Kenya case.
+
+[![Button]][Link5]
+
+![PI-Advisor](img/PiAdvisor.png)
+
+[PI-Advisor Viewer - Kenya Case](https://pi-advisor-v02-viewer.streamlit.app/)
+
+[Link5]: https://pi-advisor-v02-viewer.streamlit.app/
