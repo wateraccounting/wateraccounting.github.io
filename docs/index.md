@@ -77,37 +77,6 @@ Each tool is designed jointly with ministries, water authorities, research insti
 
 These tools analyse how effectively and equitably irrigation water is used. They deliver indicators such as water productivity, adequacy, equity and crop water deficit, so managers can improve irrigation service delivery.
 
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/irq.svg?sfvrsn=53f78844_1" alt="Iraq" height="14"> <b>Iraq</b> · West-Gharraf irrigation performance monitoring (WGIS)</summary>
-
-<img src="img/iraq.png" alt="West-Gharraf irrigation performance monitoring" width="420">
-
-Tableau dashboard linked to national platforms. Shows water productivity, relative irrigation supply, crop water deficit, irrigation equity and possible illegal abstraction, as graphs and maps.
-
-**Partners:** Ministry of Water Resources of Iraq and IWMI, with the Ministries of Agriculture, Environment, Planning and Higher Education.
-
-**Scheme:** Wasit and Dhi Qar governorates, ~95 000 ha, 96% grain crops.
-
-[![Open the tool page][Open]](https://public.tableau.com/app/profile/kamal.hakzi/viz/IWMI_IPADT_Dashboard_20240320_17697207426210/Overview)
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/mli.svg?sfvrsn=dce479b2_1" alt="Mali" height="14"> <b>Mali</b> · Irrigation performance tool of Office du Niger (IPON)</summary>
-
-<img src="img/mali.png" alt="Irrigation performance tool of Office du Niger" width="420">
-
-![Handed over][HandedOver]
-
-Dashboard with 11 irrigation performance indicators, including water consumption, water productivity, equity, adequacy and uniformity, shown as graphs, maps and tables.
-
-**Partners:** Office du Niger, Malian Ministry of Agriculture and IWMI.
-
-**Scheme:** Office du Niger near Ségou, rice and sugarcane.
-
-[![Open the tool page][Open]](https://public.tableau.com/app/profile/water.eleaf/viz/IWMI_IPADT_Dashboard_20240320/Overview)
-
-</details>
 
 <details>
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Gezira irrigation performance dashboard (GIS-IPA-DS)</summary>
@@ -124,18 +93,6 @@ Leaflet and Streamlit dashboard with performance indicators per irrigation block
 
 </details>
 
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · Irrigation water performance assessment tool (IWPAT)</summary>
-
-<img src="img/jordan-iwpat.png" alt="Illustrative raster thumbnail: irrigated parcels" width="420">
-
-Web portal inside the Jordan Valley Authority water information system, with water use statistics, hybrid efficiency indicators and seasonal crop water use at district and farm level.
-
-**Area:** Northern Jordan Valley: citrus, vegetables and dates under piped surface irrigation.
-
-[![Open the tool page][Open]][fao-jordan]
-
-</details>
 
 <details>
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/ken.svg?sfvrsn=8eb5eb35_1" alt="Kenya" height="14"> <b>Kenya</b> · Performance of irrigation assessment tool (PIA)</summary>
@@ -169,22 +126,6 @@ Web tool hosted by the Ministry of Water Resources and Irrigation. It analyses w
 
 </details>
 
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/moz.svg?sfvrsn=3e3996e7_1" alt="Mozambique" height="14"> <b>Mozambique</b> · Chókwè irrigation performance dashboard</summary>
-
-<img src="img/mozambique.png" alt="Chókwè irrigation performance dashboard" width="420">
-
-![Pilot][Pilot]
-
-Tableau dashboard for the Lower Limpopo schemes, with water use statistics and hybrid indicators that combine WaPOR data with water supply information at block level.
-
-**Partners:** National Institute for Irrigation, Ministry of Agriculture and Rural Development, Lower Limpopo Basin Authority, Hidráulica de Chókwè EP and IWMI.
-
-**Area:** Chókwè and Xai-Xai, over 90 000 ha.
-
-[![Open the tool page][Open]](https://public.tableau.com/app/profile/charama/viz/IrrigationPerformanceAssessmentToolIPAT/SchemeEN)
-
-</details>
 
 ---
 
@@ -193,60 +134,9 @@ Tableau dashboard for the Lower Limpopo schemes, with water use statistics and h
 These tools turn WaPOR evapotranspiration and biomass into practical advice for farmers and irrigation managers: how much water the crop needs, and when to apply it.
 
 <details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/tun.svg?sfvrsn=5e9690a9_1" alt="Tunisia" height="14"> <b>Tunisia</b> · Irrigation Reference to Enhance Yield (IREY)</summary>
-
-<img src="img/tunisia.png" alt="Irrigation Reference to Enhance Yield" width="420">
-
-![Mobile app on Google Play][MobileApp]
-
-Real-time irrigation scheduling, 10-day forecasts of soil moisture depletion and advice on irrigation timing.
-
-**Partners:** Institut National des Grandes Cultures, Tunisian Ministry of Agriculture, Olive Institute and regional research centres.
-
-**Scheme:** Bouheurtma, Jendouba, 13 500 ha, mainly wheat.
-
-[![Open the tool page][Open]][fao-tunisia]
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · Irrigation advisory app</summary>
-
-<img src="img/palestine-advisory.png" alt="Illustrative raster thumbnail: cropland parcels" width="420">
-
-![Under development][UnderDev]
-
-Mobile app that will give irrigation water requirements and irrigation duration by crop and variety, with a focus on date palm, and by irrigation system, farm size, pump type and soil.
-
-**Partners:** Ministry of Agriculture and Snipe, a local IT company in Jericho, with IWMI and FAO.
-
-**Area:** Jericho Governorate, about 99% of the land irrigated.
-
-[![Open the tool page][Open]][fao-palestine]
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/egy.svg?sfvrsn=4d85e36c_1" alt="Egypt" height="14"> <b>Egypt</b> · Irrigation Water Information application (IRWI)</summary>
-
-<img src="img/egypt-irwi.png" alt="Illustrative raster thumbnail: cropland parcels" width="420">
-
-![Under development][UnderDev]
-
-Mobile app for timing of water application, crop health monitoring and dynamic yield prediction for rice, cotton, soybean, maize and potatoes. It combines WaPOR RET, productivity and AETI with local soil and water data.
-
-**Partners:** Soil, Water and Environment Research Institute, Farmer Field School facilitators and IWMI.
-
-**Area:** Nile Delta and West Delta schemes.
-
-[![Open the tool page][Open]][fao-egypt]
-
-</details>
-
-<details>
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation assessment tool (IPA)</summary>
 
-<img src="img/colombia.png" alt="Irrigation assessment tool Colombia" width="420">
+<img src="img/Colombia.png" alt="Irrigation assessment tool Colombia" width="420">
 
 ![Under development][UnderDev]
 
