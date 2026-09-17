@@ -159,7 +159,7 @@ These tools track agricultural drought, vegetation stress and water deficits ove
 <details>
 <summary><b>Web map · Africa</b> · Drought Observe</summary>
 
-<img src="img/drought-observe.png" alt="Drought Observe" width="420">
+<img src="img/droughtobservedash.jpg" alt="Drought Observe" width="420">
 
 A drought monitoring system from the WaterPIP project, with near real-time drought intensity maps for Africa at 250 m and monthly steps, piloted in Kenya, Ethiopia and Mozambique.
 
