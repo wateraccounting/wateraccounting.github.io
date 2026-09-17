@@ -169,113 +169,12 @@ A drought monitoring system from the WaterPIP project, with near real-time droug
 
 </details>
 
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Drought monitoring tool (DMT)</summary>
-
-<img src="img/sudan-dmt.png" alt="Sudan drought monitoring tool" width="420">
-
-![Under development][UnderDev]
-
-Python web dashboard with drought severity maps, ESI, SPEI and SPI indices, biomass and yield estimates and yield gap assessment. Uses WaPOR v3 Level 2 at 300 m, from dekadal to seasonal.
-
-**Partners:** Sudan Meteorological Authority, Ministry of Agriculture and Forests, Civil Defence, Hydraulic Research Center and IWMI, with the CIMA Foundation.
-
-**Coverage:** Gedarif State first, expandable to national scale.
-
-[![Open the tool page][Open]][fao-sudan]
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/pak.svg?sfvrsn=ff6cb8f3_1" alt="Pakistan" height="14"> <b>Pakistan</b> · Pakistan drought monitoring system (PakDMS)</summary>
-
-<img src="img/pakistan.png" alt="Pakistan drought monitoring system" width="420">
-
-Web dashboard with dekadal drought indices and near real-time alerts, built on WaPOR v3 evapotranspiration, soil moisture and net primary productivity at 100 m.
-
-**Partners:** Pakistan Meteorological Department, National Disaster Risk Management Fund, Barani Agriculture Research Center, provincial irrigation and agriculture departments, and the NDMA, with IWMI.
-
-**Coverage:** From coastal Sindh to Gilgit-Baltistan.
-
-[![Open the tool page][Open]](https://pakdms.iwmi.org/)
-
-</details>
-
 ---
 
-## 4. Water accounting tools
 
-These tools quantify water availability, use and consumption across agricultural systems or river basins, separating irrigated from rainfed agriculture and producing spatially explicit water balances.
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/dza.svg?sfvrsn=c2afa116_1" alt="Algeria" height="14"> <b>Algeria</b> · Water use in Algerian irrigation schemes</summary>
-
-<img src="img/algeria.png" alt="Illustrative raster thumbnail: parcel-level water use" width="420">
-
-![Under development][UnderDev]
-
-Python tool with a dynamic dashboard for Ubuntu and Windows. Dekadal water use monitoring at parcel level, with deep learning for parcel identification and segmentation of irrigated versus rainfed plots.
-
-**Partners:** WaPOR Digital Unit of the Department of Statistics and Strategies, Ministry of Agriculture, and IWMI, with FAO.
-
-**Coverage:** Irrigation schemes nationwide.
-
-[![Open the tool page][Open]][fao-algeria]
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/tun.svg?sfvrsn=5e9690a9_1" alt="Tunisia" height="14"> <b>Tunisia</b> · Water use tool for irrigation schemes</summary>
-
-<img src="img/tunisia-water-use.png" alt="Illustrative raster thumbnail: parcel-level water use" width="420">
-
-![Under development][UnderDev]
-
-Python tool with dynamic dashboard for dekadal water use at parcel level. It detects parcel boundaries, determines start and end of season, and separates irrigated from rainfed plots using cumulative rainfall and actual ET.
-
-**Partners:** WaPOR Task Force, Ministry of Agriculture, and IWMI, with FAO.
-
-**Coverage:** Irrigation schemes nationwide.
-
-[![Open the tool page][Open]][fao-tunisia]
-
-</details>
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/ken.svg?sfvrsn=8eb5eb35_1" alt="Kenya" height="14"> <b>Kenya</b> · Water availability and demand tool (WAD Kenya)</summary>
-
-<img src="img/kenya-wad.png" alt="Water availability and demand tool" width="420">
-
-Online dashboard for water availability and demand, cropland partitioning into rainfed and irrigated, storage suitability for surface structures and on-farm ponds, and groundwater availability.
-
-**Partners:** National Irrigation Authority, Ministry of Agriculture, CETRAD, eleven county governments and IWMI, with KEWI.
-
-**Coverage:** Eleven counties, about 300 000 ha of irrigated cropland.
-
-[![Open the tool page][Open]](https://app.powerbi.com/view?r=eyJrIjoiOTljM2QwZTQtZmIzZi00NTliLWE2NTUtYzU4YjEyMTVlZDU4IiwidCI6IjZhZmEwZTAwLWZhMTQtNDBiNy04YTJlLTIyYTdmOGMzNTdkNSIsImMiOjh9)
-
-</details>
-
----
-
-## 5. WaPOR data in national water information systems
+## 4. WaPOR data in national water information systems
 
 Here WaPOR data are embedded directly into existing institutional platforms, so ministries and water authorities can monitor irrigation, water use and water budgets as part of their routine work.
-
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/eth.svg?sfvrsn=818aec1a_1" alt="Ethiopia" height="14"> <b>Ethiopia</b> · Irrigation management information system (IMISET)</summary>
-
-<img src="img/ethiopia.png" alt="Irrigation management information system Ethiopia" width="420">
-
-National web platform that integrates WaPOR v3 data for monitoring and managing irrigation schemes, with performance tracking, water use monitoring and decision support.
-
-**Partners:** Ministry of Agriculture, scheme managers, regional authorities and IHE Delft, with FAO.
-
-**Coverage:** Several irrigation pilot areas across the country.
-
-[![Open the tool page][Open]][fao-ethiopia]
-
-</details>
 
 <details>
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · WaPOR in the national water information system (WaPOR-NWIS)</summary>
@@ -305,7 +204,7 @@ Integration of WaPOR data with Jordan's digital National Water Information Syste
 
 ---
 
-## 6. Groundwater abstraction tools
+## 5. Groundwater abstraction tools
 
 These tools estimate groundwater consumption and compare abstraction against crop water requirements, helping institutions spot over-abstraction and assess risks to aquifer sustainability.
 
@@ -343,24 +242,9 @@ Will estimate water consumption in millimetres and cubic metres at farm and area
 
 </details>
 
-<details>
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/irq.svg?sfvrsn=53f78844_1" alt="Iraq" height="14"> <b>Iraq · Kurdistan</b> · GAM Kurdistan</summary>
-
-<img src="img/iraq-gam.png" alt="GAM Kurdistan dashboard" width="420">
-
-Streamlit dashboard, usable from a smartphone, with abstraction rates, recharge and consumption area mapping, water stress indicators and field-level seasonal analysis. It combines WaPOR v3 at 20 m with the Thornthwaite–Mather water balance and helps detect unplanned extraction.
-
-**Partners:** Ministry of Agriculture and Water Resources of the Kurdistan Region, Ministry of Water Resources, Ministry of Higher Education, universities, farmers and Water Users Associations, with IWMI.
-
-**Area:** Shemamuk irrigation project, Erbil, ~15 000 ha.
-
-[![Open the tool page][Open]](https://groundwater-dashboard.streamlit.app/)
-
-</details>
-
 ---
 
-## 7. Applications, story maps and web tools
+## 6. Applications, story maps and web tools
 
 Beyond the tools co-developed with national institutions, WaPOR data feed a wider set of applications built by universities, projects and hackathon teams. Use these as inspiration for your own work.
 
@@ -444,33 +328,3 @@ A geostory from the IHE Delft Water and Development Partnership Programme reposi
 [fao-sudan]: https://www.fao.org/in-action/remote-sensing-for-water-productivity/country-activities/sudan/en
 [fao-tunisia]: https://www.fao.org/in-action/remote-sensing-for-water-productivity/country-activities/tunisia/en
 
-<!-- ========== IMAGES TO UPLOAD TO THE img/ FOLDER ==========
-Rename the Moodle images as follows before uploading:
-
-  iraq (1).png        -> img/iraq.png
-  mali.png            -> img/mali.png
-  sudan.png           -> img/sudan.png
-  blobid3 (1).png     -> img/jordan-iwpat.png
-  kenya.png           -> img/kenya.png
-  egypt.png           -> img/egypt.png
-  Moza.png            -> img/mozambique.png
-  tunisia.png         -> img/tunisia.png
-  blobid9 (1).png     -> img/palestine-advisory.png
-  blobid10 (1).png    -> img/egypt-irwi.png
-  Colombia.png        -> img/colombia.png
-  Droughts.png        -> img/drought-observe.png
-  blobid13 (1).png    -> img/sudan-dmt.png
-  Pakistan.png        -> img/pakistan.png
-  blobid15 (1).png    -> img/algeria.png
-  blobid16 (1).png    -> img/tunisia-water-use.png
-  kenyawater.png      -> img/kenya-wad.png
-  ethipia.png         -> img/ethiopia.png
-  blobid19 (1).png    -> img/palestine-nwis.png
-  blobid20 (1).png    -> img/jordan-nwis.png
-  blobid21 (1).png    -> img/palestine-gam.png
-  blobid22 (1).png    -> img/jordan-gam.png
-  iraq_gw.png         -> img/iraq-gam.png
-  sudan3.png          -> img/sudan-storymap.png
-  lebanon.png         -> img/lebanon.png
-  kenya crops.png     -> img/kenya-crops.png
-============================================================ -->
