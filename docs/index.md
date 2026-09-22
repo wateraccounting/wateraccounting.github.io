@@ -94,7 +94,7 @@ Leaflet and Streamlit dashboard with performance indicators per irrigation block
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/ken.svg?sfvrsn=8eb5eb35_1" alt="Kenya" height="14"> <b>Kenya</b> · Performance of irrigation assessment tool (PIA)</summary>
 
-<img src="img/kenya.png" alt="Performance of irrigation assessment tool" width="420">
+<img src="img/kenya.png" alt="Performance of irrigation assessment tool" width="800">
 
 Dashboards with optimal irrigation plans, crop water productivity indicators and downloadable reports. WaPOR 20 m data are combined with in situ soil moisture sensors.
 
@@ -109,7 +109,7 @@ Dashboards with optimal irrigation plans, crop water productivity indicators and
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/egy.svg?sfvrsn=4d85e36c_1" alt="Egypt" height="14"> <b>Egypt</b> · Irrigation assessment tool for Egypt (IPAT)</summary>
 
-<img src="img/egypt.png" alt="Irrigation assessment tool for Egypt" width="420">
+<img src="img/egypt.png" alt="Irrigation assessment tool for Egypt" width="800">
 
 ![Operational pilot][OperationalPilot]
 
@@ -132,7 +132,7 @@ These tools turn WaPOR evapotranspiration and biomass into practical advice for 
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation assessment tool (IPA)</summary>
 
-<img src="img/Colombia.png" alt="Irrigation assessment tool Colombia" width="420">
+<img src="img/Colombia.png" alt="Irrigation assessment tool Colombia" width="800">
 
 ![Under development][UnderDev]
 
@@ -155,7 +155,7 @@ These tools track agricultural drought, vegetation stress and water deficits ove
 <details markdown="1">
 <summary><b>Web map · Africa</b> · Drought Observe</summary>
 
-<img src="img/droughtobservedash.jpg" alt="Drought Observe" width="420">
+<img src="img/droughtobservedash.jpg" alt="Drought Observe" width="800">
 
 A drought monitoring system from the WaterPIP project, with near real-time drought intensity maps for Africa at 250 m and monthly steps, piloted in Kenya, Ethiopia and Mozambique.
 
@@ -174,7 +174,7 @@ Here WaPOR data are embedded directly into existing institutional platforms, so 
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · WaPOR in the national water information system (WaPOR-NWIS)</summary>
 
-<img src="img/palestine-nwis.png" alt="Illustrative raster thumbnail: national scale parcels" width="420">
+<img src="img/palestine-nwis.png" alt="Illustrative raster thumbnail: national scale parcels" width="800">
 
 Integration of WaPOR data with the digital National Water Information System to improve water budget reporting, agricultural water use monitoring, domestic supply planning and allocation.
 
@@ -187,7 +187,7 @@ Integration of WaPOR data with the digital National Water Information System to 
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · WaPOR in the national water information system (WaPOR-NWIS)</summary>
 
-<img src="img/jordan-nwis.png" alt="Illustrative raster thumbnail: national scale parcels" width="420">
+<img src="img/jordan-nwis.png" alt="Illustrative raster thumbnail: national scale parcels" width="800">
 
 Integration of WaPOR data with Jordan's digital National Water Information System to strengthen water budget reporting and support decisions on allocation, irrigation efficiency and sustainable use.
 
@@ -206,7 +206,7 @@ These tools estimate groundwater consumption and compare abstraction against cro
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · Groundwater abstraction monitoring tool (GAM)</summary>
 
-<img src="img/palestine-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="420">
+<img src="img/palestine-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
 
 ![Planned][Planned]
 
@@ -223,7 +223,7 @@ Will track groundwater extraction against crop water requirements, assess croppi
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · Groundwater abstraction monitoring tool (GAM)</summary>
 
-<img src="img/jordan-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="420">
+<img src="img/jordan-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
 
 ![Design phase][DesignPhase]
 
@@ -246,7 +246,7 @@ Beyond the tools co-developed with national institutions, WaPOR data feed a wide
 <details markdown="1">
 <summary><b>Story map · Sudan</b> · Cultivated cropland extent in Sudan</summary>
 
-<img src="img/sudan-storymap.png" alt="Cultivated cropland extent in Sudan" width="420">
+<img src="img/sudan-storymap.png" alt="Cultivated cropland extent in Sudan" width="800">
 
 An ArcGIS StoryMaps example covering July to September 2023, showing how WaPOR data can be turned into a narrative map for a wider audience.
 
@@ -279,7 +279,7 @@ The PlantVillage presentation from the 2020 WaPOR Hackathon, a good example of w
 <details markdown="1">
 <summary><b>Project · Lebanon</b> · Time-series ET mapping for irrigation management (ITSET)</summary>
 
-<img src="img/lebanon.png" alt="Time-series ET mapping for irrigation management" width="420">
+<img src="img/lebanon.png" alt="Time-series ET mapping for irrigation management" width="800">
 
 ITSET fuses several remote sensing missions across different spatial and temporal resolutions to map daily water use, vegetation indices and, eventually, yield and water productivity at field scale. Outputs are delivered through an online platform and a smartphone app. The project is ongoing.
 
@@ -290,7 +290,7 @@ ITSET fuses several remote sensing missions across different spatial and tempora
 <details markdown="1">
 <summary><b>Impact story · Kenya</b> · More crops per drop for food security</summary>
 
-<img src="img/kenya-crops.png" alt="More crops per drop for food security" width="420">
+<img src="img/kenya-crops.png" alt="More crops per drop for food security" width="800">
 
 A geostory from the IHE Delft Water and Development Partnership Programme repository, on the application of digital innovations in the Galana Kulalu Irrigation Scheme, Kenya. It shows how remote sensing and digital tools translate into on-the-ground irrigation decisions.
 
