@@ -163,7 +163,7 @@ These tools estimate groundwater consumption and compare abstraction against cro
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · Groundwater abstraction monitoring tool (GAM)</summary>
 
-<img src="img/palestine-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
+<img src="img/Palestine.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
 
 ![Planned][Planned]
 
@@ -180,7 +180,7 @@ Will track groundwater extraction against crop water requirements, assess croppi
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · Groundwater abstraction monitoring tool (GAM)</summary>
 
-<img src="img/jordan-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
+<img src="img/Jordan.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
 
 ![Design phase][DesignPhase]
 
