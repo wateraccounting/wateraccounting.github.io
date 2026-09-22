@@ -79,7 +79,7 @@ These tools analyse how effectively and equitably irrigation water is used. They
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Gezira irrigation performance dashboard (GIS-IPA-DS)</summary>
 
-<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="420">
+<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="600">
 
 Leaflet and Streamlit dashboard with performance indicators per irrigation block and main crop, for winter and summer seasons, built on WaPOR Level 2 data.
 
@@ -148,7 +148,7 @@ Dashboard combining irrigation performance and scheduling metrics. It joins ASBA
 
 ---
 
-## 3. Drought monitoring tools
+## 3. Global monitoring tools
 
 These tools track agricultural drought, vegetation stress and water deficits over time, with spatially explicit indices and, in some cases, early warning information.
 
