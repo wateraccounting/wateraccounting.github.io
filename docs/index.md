@@ -79,7 +79,7 @@ These tools analyse how effectively and equitably irrigation water is used. They
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Gezira irrigation performance dashboard (GIS-IPA-DS)</summary>
 
-<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="600">
+<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="800">
 
 Leaflet and Streamlit dashboard with performance indicators per irrigation block and main crop, for winter and summer seasons, built on WaPOR Level 2 data.
 
