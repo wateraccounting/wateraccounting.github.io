@@ -270,5 +270,5 @@ A geostory from the IHE Delft Water and Development Partnership Programme reposi
 [FAOCountry]: https://img.shields.io/badge/Open_the_FAO_country_page-17607A?style=for-the-badge
 
 <!-- ========== FAO COUNTRY PAGES ========== -->
-[fao-jordan]: https://www.fao.org/in-action/remote-sensing-for-water-productivity/country-activities/jordan/en
-[fao-palestine]: https://www.fao.org/in-action/remote-sensing-for-water-productivity/country-activities/palestine/en
+[fao-jordan]: https://wisjordan-z9xjcyh3gdk2sglzn2dkjg.streamlit.app/
+[fao-palestine]: https://wispalestine-djvar4gh6bmtqpatzhjpku.streamlit.app/
