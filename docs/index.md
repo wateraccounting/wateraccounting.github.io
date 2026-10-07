@@ -137,7 +137,7 @@ Integration of WaPOR data with the digital National Water Information System to 
 
 **Partners:** Water Authority, Ministry of Agriculture, technical teams and FAO, with IHE Delft.
 
-[![Button]][fao-palestine]
+[![Button]](https://wispalestine-ihe.streamlit.app/)
 
 </details>
 
@@ -150,7 +150,7 @@ Integration of WaPOR data with Jordan's digital National Water Information Syste
 
 **Partners:** Ministry of Water and Irrigation, Jordan Valley Authority, University of Jordan and FAO, with IHE Delft and IWMI.
 
-[![Button]][fao-jordan]
+[![Button]](https://wisjordan-ihe.streamlit.app/)
 
 </details>
 
