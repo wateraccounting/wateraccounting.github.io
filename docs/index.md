@@ -78,13 +78,13 @@ Latest news: trained staff set up locally hosted dashboards translated into Arab
 
 ![Operational pilot][OperationalPilot]
 
-Streamlit dashboard with irrigation performance indicators, per irrigation area and main crops (cotton, wheat sorghum), for two winter seasons, built using WaPOR Level 2 data (100m). 
+Streamlit dashboard with irrigation performance indicators, per irrigation area, two winter and summer seasons (six crops per season), built using WaPOR Level 2 data (100m). 
 
 **Partners:** Water Accounting Unit of the Ministry of Water Resources and Irrigation, National Water Research Centre (NWRC).
 
 **Area:** Middle Nile Delta, ~1.5 million ha.
 
-Latest news: NWRC staff 
+Latest news: NWRC staff upgraded the script and analyses in a new dashboard to cover the entire Nile Delta, see a snapshot of their dashboard in their [hackathon 5 min pitch](https://peertube.un-ihe.org/w/3Kf1qBVQvTsskgZ1RG2vPK?start=23m43s)
 
 [![Button]](https://gharbia-ipa-dashboard.streamlit.app/)
 [![Githubrepo]](https://github.com/SolSeyoum/Gharbia_IPA_dashboard)
@@ -98,7 +98,24 @@ Latest news: NWRC staff
 These tools turn WaPOR evapotranspiration and biomass into practical advice for farmers and irrigation managers: how much water the crop needs, and when to apply it.
 
 <details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation assessment tool (IPA)</summary>
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Kenya" height="14"> <b>Kenya</b> · Irrigation advisory tool (pi-adviser)</summary>
+
+<img src="img/Kenya.png" alt="Irrigation advisory tool Kenya" width="800">
+
+![Operational pilot][OperationalPilot]
+
+Dashboard combining irrigation performance and scheduling metrics. It joins ASBAMA local datasets with WaPOR Level 3 data to map water use, irrigation efficiency, crop water deficit and scheduling needs.
+
+**Partners:** Ministry of Agriculture of Colombia, ASBAMA, the Río Frío, Sevilla, Tucurinca and Aracataca irrigation districts, and IWMI.
+
+**Area:** Magdalena department, ~84 000 ha, around 900 000 t of bananas a year.
+
+[![Button]](https://pi-advisor-v02-viewer.streamlit.app/?lang=en)
+
+</details>
+
+<details markdown="1">
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation advisory tool (pi-adviser)</summary>
 
 <img src="img/Colombia.png" alt="Irrigation assessment tool Colombia" width="800">
 
