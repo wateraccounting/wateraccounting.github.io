@@ -100,15 +100,17 @@ These tools turn WaPOR evapotranspiration and biomass into practical advice for 
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Kenya" height="14"> <b>Kenya</b> · Irrigation advisory tool (pi-adviser)</summary>
 
-<img src="img/Kenya.png" alt="Irrigation advisory tool Kenya" width="800">
+<img src="img/Kenya-piadvisor.png" alt="Irrigation advisory tool Kenya" width="800">
 
 ![Operational pilot][OperationalPilot]
 
-Dashboard combining irrigation performance and scheduling metrics. It joins ASBAMA local datasets with WaPOR Level 3 data to map water use, irrigation efficiency, crop water deficit and scheduling needs.
+PI-Advisor is a free and open-source web app that tells the user, field by field, when to irrigate and how much to apply. It is set up for 9 farms in Bura irrigation scheme and farmers are testing the advise provided by the tool.
 
-**Partners:** Ministry of Agriculture of Colombia, ASBAMA, the Río Frío, Sevilla, Tucurinca and Aracataca irrigation districts, and IWMI.
+**Partners:** National Irrigation Authority (NIA), Ministry of Water, Sanitation and Irrigation, Jomo Kenyatta University of Agriculture and Technology (JKUAT).
 
-**Area:** Magdalena department, ~84 000 ha, around 900 000 t of bananas a year.
+**Area:** Bura irrigation scheme, ~70 000 ha.
+
+Latest news: NIA continues to test the tool with the farmers in Bura and has expanded its use to Galana Kulalu and Mwea irrigation scheme.
 
 [![Button]](https://pi-advisor-v02-viewer.streamlit.app/?lang=en)
 
@@ -117,15 +119,17 @@ Dashboard combining irrigation performance and scheduling metrics. It joins ASBA
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation advisory tool (pi-adviser)</summary>
 
-<img src="img/Colombia.png" alt="Irrigation assessment tool Colombia" width="800">
+<img src="img/Colombia-piadvisor.png" alt="Irrigation advisory tool Colombia" width="800">
 
 ![Under development][UnderDev]
 
-Dashboard combining irrigation performance and scheduling metrics. It joins ASBAMA local datasets with WaPOR Level 3 data to map water use, irrigation efficiency, crop water deficit and scheduling needs.
+PI-Advisor is a free and open-source web app that tells the user, field by field, when to irrigate and how much to apply. It is set up for 15 farms growing maize in the Cauca valley.
 
-**Partners:** Ministry of Agriculture of Colombia, ASBAMA, the Río Frío, Sevilla, Tucurinca and Aracataca irrigation districts, and IWMI.
+**Partners:** Ministry of Agriculture of Colombia, Users' Association of the Land Development District for the Municipalities of Roldanillo, La Unión, and Toro (ASORUT), Universidad del Valle (UdV). 
 
-**Area:** Magdalena department, ~84 000 ha, around 900 000 t of bananas a year.
+**Area:** Cauca valley, ~10 000 ha
+
+Latest news: In collaboration with ASORUT, two students at UdV
 
 [![Button]](https://pi-advisor-v02-viewer.streamlit.app/?lang=en)
 
