@@ -1,5 +1,5 @@
 # Dashboards
-Welcome to IHE Delft Water Accounting team's dashboard overview. Since 2020, IHE Delft has been working on utilising WaPOR data to support agricultural and water management. Various results and products are presented in dashboards. This webpages provides an overview of a number of these dashboards.
+Welcome to IHE Delft Water Accounting team's dashboard overview. Since 2016, IHE Delft has been working on utilising WaPOR data to support agricultural and water management. Various types of applications were developed and presented in dashboards. This webpages provides an overview of a number of these dashboards developed by IHE Delft in collaboration with various local partners, who were trained on running the analyses, and setting up their own dashboards.
 
 for more information contact wateraccounting_project@un-ihe.org or check our [website](https://wateraccounting.un-ihe.org)
 
@@ -16,9 +16,9 @@ Each tool is designed jointly with ministries, water authorities, research insti
 
 ![Map of the 10 WaPOR partner countries](https://www.fao.org/media/images/waporlibraries/default-album/10wapor-countries465d624e10fd4610a52302ea16dbc931.png?sfvrsn=54a0246f_0)
 
-*Tools are being co-developed across the 10 WaPOR partner countries.*
+*Tools are being co-developed across the 13 WaPOR partner countries.*
 
-## In this page
+## On this page
 
 1. [Irrigation performance](#1-irrigation-performance-tools)
 2. [Irrigation scheduling](#2-irrigation-scheduling-tools)
@@ -31,35 +31,43 @@ Each tool is designed jointly with ministries, water authorities, research insti
 
 ## 1. Irrigation performance tools
 
-These tools analyse how effectively and equitably irrigation water is used. They deliver indicators such as water productivity, adequacy, equity and crop water deficit, so managers can improve irrigation service delivery.
-
-<details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Gezira irrigation performance dashboard (GIS-IPA-DS)</summary>
-
-<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="800">
-
-Leaflet and Streamlit dashboard with performance indicators per irrigation block and main crop, for winter and summer seasons, built on WaPOR Level 2 data.
-
-**Partners:** Ministry of Irrigation and Water Resources, Hydraulic Research Center and Gezira Scheme Management, with IHE Delft and IWMI.
-
-**Scheme:** Gezira, ~890 000 ha and 4 300 km of canals, Africa's largest.
-
-[![Button]](https://gezira-sudan-ipa.streamlit.app/)
-
-</details>
+These tools analyse how effectively and equitably irrigation water is used. They provide irrigation performance indicators such as crop water productivity, seasonal biomass production/yield, beneficial fraction, crop water deficit and relative water deficit, so managers can identify areas with low performance to improve irrigation service delivery.
 
 <details markdown="1">
 <summary><img src="https://www.fao.org/images/corporatelibraries/flags/ken.svg?sfvrsn=8eb5eb35_1" alt="Kenya" height="14"> <b>Kenya</b> · Performance of irrigation assessment tool (PIA)</summary>
 
 <img src="img/kenya.png" alt="Performance of irrigation assessment tool" width="800">
 
-Dashboards with optimal irrigation plans, crop water productivity indicators and downloadable reports. WaPOR 20 m data are combined with in situ soil moisture sensors.
+![Operational pilot][OperationalPilot]
 
-**Partners:** National Irrigation Authority, Ministry of Water, Sanitation and Irrigation, JKUAT, FAO Kenya and IHE Delft.
+Streamlit dashboard with irrigation performance indicators per irrigation block for the Mwea irrigation scheme for summer rice crop, for the period 2018-2024, built using WaPOR level 3 data (20 m).
 
-**Schemes:** Mwea, Tana and Bura, over 29 000 acres.
+**Partners:** National Irrigation Authority (NIA), Ministry of Water, Sanitation and Irrigation, Jomo Kenyatta University of Agriculture and Technology (JKUAT).
+
+**Schemes:** Mwea irrigation scheme over 12 000 ha. 
+
+Latest news: NIA developed and are maintaining their own dashboards for Bura and Tana irrigation schemes.
 
 [![Button]](https://mwea-ipa.streamlit.app/)
+[![Githubrepo]](https://github.com/SolSeyoum/Mwea_IPA_v3)
+
+</details>
+
+<details markdown="1">
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/sdn.svg?sfvrsn=df94ef36_1" alt="Sudan" height="14"> <b>Sudan</b> · Gezira irrigation performance dashboard (GIS-IPA-DS)</summary>
+
+<img src="img/sudan.png" alt="Gezira irrigation performance dashboard" width="800">
+
+Streamlit dashboard with irrigation performance indicators, per irrigation block and main crops (cotton, wheat sorghum), for two winter seasons, built using WaPOR Level 2 data (100m).
+
+**Partners:** Ministry of Irrigation and Water Resources, Hydraulic Research Center and Gezira Scheme Management, Sudan.
+
+**Scheme:** Gezira, ~890 000 ha and 4 300 km of canals, Africa's largest irrigation scheme.
+
+Latest news: trained staff set up locally hosted dashboards translated into Arabic
+
+[![Button]](https://gezira-sudan-ipa.streamlit.app/)
+[![Githubrepo]](https://github.com/SolSeyoum/IPA_Gezira_v3)
 
 </details>
 
@@ -70,13 +78,16 @@ Dashboards with optimal irrigation plans, crop water productivity indicators and
 
 ![Operational pilot][OperationalPilot]
 
-Web tool hosted by the Ministry of Water Resources and Irrigation. It analyses water use and locates high and low productivity areas using WaPOR v3 Level 3 (20 m) data.
+Streamlit dashboard with irrigation performance indicators, per irrigation area and main crops (cotton, wheat sorghum), for two winter seasons, built using WaPOR Level 2 data (100m). 
 
-**Partners:** Ministry of Water Resources and Irrigation, scheme managers, policy makers and IWMI, with IHE Delft and FAO.
+**Partners:** Water Accounting Unit of the Ministry of Water Resources and Irrigation, National Water Research Centre (NWRC).
 
-**Area:** Middle and West Delta, ~1.5 million ha, three irrigation systems.
+**Area:** Middle Nile Delta, ~1.5 million ha.
 
-[![Button]](https://zemamipa.streamlit.app/)
+Latest news: NWRC staff 
+
+[![Button]](https://gharbia-ipa-dashboard.streamlit.app/)
+[![Githubrepo]](https://github.com/SolSeyoum/Gharbia_IPA_dashboard)
 
 </details>
 
@@ -267,6 +278,7 @@ A geostory from the IHE Delft Water and Development Partnership Programme reposi
 [Planned]: https://img.shields.io/badge/Planned-4a5d74?style=flat-square
 [DesignPhase]: https://img.shields.io/badge/Design_phase-4a5d74?style=flat-square
 [Button]: https://img.shields.io/badge/Open_the_tool-17607A?style=for-the-badge
+[Githubrepo]: https://img.shields.io/badge/github-repo-blue?logo=github
 [FAOCountry]: https://img.shields.io/badge/Open_the_FAO_country_page-17607A?style=for-the-badge
 
 <!-- ========== FAO COUNTRY PAGES ========== -->
