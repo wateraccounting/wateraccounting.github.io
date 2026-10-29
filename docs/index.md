@@ -22,9 +22,9 @@ Each tool is designed jointly with ministries, water authorities, research insti
 
 1. [Irrigation performance](#1-irrigation-performance-tools)
 2. [Irrigation scheduling](#2-irrigation-scheduling-tools)
-3. [Drought monitoring](#3-drought-monitoring-tools)
+3. [Groundwater abstraction](#3-groundwater-abstraction-tools)
 4. [National water information systems](#4-wapor-data-in-national-water-information-systems)
-5. [Groundwater abstraction](#5-groundwater-abstraction-tools)
+5. [Drought monitoring](#5-drought-monitoring-tools)
 6. [Applications and web tools](#6-applications-story-maps-and-web-tools)
 
 ---
@@ -98,7 +98,7 @@ Latest news: NWRC staff upgraded the script and analyses in a new dashboard to c
 These tools turn WaPOR evapotranspiration and biomass into practical advice for farmers and irrigation managers: how much water the crop needs, and when to apply it.
 
 <details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Kenya" height="14"> <b>Kenya</b> · Irrigation advisory tool (pi-adviser)</summary>
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/ken.svg?sfvrsn=c2740759_1" alt="Kenya" height="14"> <b>Kenya</b> · Irrigation advisory tool (PI-Advisor)</summary>
 
 <img src="img/Kenya-piadvisor.png" alt="Irrigation advisory tool Kenya" width="800">
 
@@ -117,7 +117,7 @@ Latest news: NIA continues to test the tool with the farmers in Bura and has exp
 </details>
 
 <details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation advisory tool (pi-adviser)</summary>
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/col.svg?sfvrsn=c2740759_1" alt="Colombia" height="14"> <b>Colombia</b> · Irrigation advisory tool (PI-Advisor)</summary>
 
 <img src="img/Colombia-piadvisor.png" alt="Irrigation advisory tool Colombia" width="800">
 
@@ -129,7 +129,7 @@ PI-Advisor is a free and open-source web app that tells the user, field by field
 
 **Area:** Cauca valley, ~10 000 ha
 
-Latest news: In collaboration with ASORUT, two students at UdV
+Latest news: In collaboration with ASORUT, two students at UdV will start with testing PI-Advisor with selected farmers.
 
 [![Button]](https://pi-advisor-v02-viewer.streamlit.app/?lang=en)
 
@@ -137,20 +137,41 @@ Latest news: In collaboration with ASORUT, two students at UdV
 
 ---
 
-## 3. Global monitoring tools
+## 3. Groundwater abstraction tools
 
-These tools track agricultural drought, vegetation stress and water deficits over time, with spatially explicit indices and, in some cases, early warning information.
+These tools estimate groundwater consumption and compare abstraction against crop water requirements, helping institutions spot over-abstraction and assess risks to aquifer sustainability.
 
 <details markdown="1">
-<summary><b>Web map · Africa</b> · Drought Observe</summary>
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · Groundwater abstraction monitoring tool (GAM)</summary>
 
-<img src="img/droughtobservedash.jpg" alt="Drought Observe" width="800">
+<img src="img/palestine-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
 
-A drought monitoring system from the WaterPIP project, with near real-time drought intensity maps for Africa at 250 m and monthly steps, piloted in Kenya, Ethiopia and Mozambique.
+![Planned][Planned]
 
-**Method:** SPAEI from long-term dekadal water surplus and deficit (P − RET) fitted to a log-logistic distribution, then a decision-tree model regressing SPAEI against WaPOR phenology, land cover, precipitation, NDVI and temperature. Runs in Google Earth Engine.
+Will track groundwater extraction against crop water requirements, assess cropping patterns and monitor water use in a region that depends entirely on groundwater, with about 166 mm of rainfall a year.
 
-[![Button]](https://waterpiporg.users.earthengine.app/view/dms)
+**Partners:** Water Authority and Ministry of Agriculture, with IWMI and FAO.
+
+**Area:** Jericho, southern Jordan Valley: date palm and vegetables.
+
+[![Button]][fao-palestine]
+
+</details>
+
+<details markdown="1">
+<summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · Groundwater abstraction monitoring tool (GAM)</summary>
+
+<img src="img/jordan-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
+
+![Design phase][DesignPhase]
+
+Will estimate water consumption in millimetres and cubic metres at farm and area level, and compare it with abstracted groundwater to support sustainable management.
+
+**Partners:** Ministry of Water and Irrigation, Jordan Water Authority and University of Jordan, with IWMI.
+
+**Area:** Jafer, southern Jordan, under 50 mm of rainfall a year.
+
+[![Button]][fao-jordan]
 
 </details>
 
@@ -186,43 +207,23 @@ Integration of WaPOR data with Jordan's digital National Water Information Syste
 
 </details>
 
+
 ---
 
-## 5. Groundwater abstraction tools
+## 5. Global monitoring tools
 
-These tools estimate groundwater consumption and compare abstraction against crop water requirements, helping institutions spot over-abstraction and assess risks to aquifer sustainability.
-
-<details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/pse.svg?sfvrsn=299efced_1" alt="Palestine" height="14"> <b>Palestine</b> · Groundwater abstraction monitoring tool (GAM)</summary>
-
-<img src="img/palestine-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
-
-![Planned][Planned]
-
-Will track groundwater extraction against crop water requirements, assess cropping patterns and monitor water use in a region that depends entirely on groundwater, with about 166 mm of rainfall a year.
-
-**Partners:** Water Authority and Ministry of Agriculture, with IWMI and FAO.
-
-**Area:** Jericho, southern Jordan Valley: date palm and vegetables.
-
-[![Button]][fao-palestine]
-
-</details>
+These tools track agricultural drought, vegetation stress and water deficits over time, with spatially explicit indices and, in some cases, early warning information.
 
 <details markdown="1">
-<summary><img src="https://www.fao.org/images/corporatelibraries/flags/jor.svg?sfvrsn=fb64da4_1" alt="Jordan" height="14"> <b>Jordan</b> · Groundwater abstraction monitoring tool (GAM)</summary>
+<summary><b>Web map · Africa</b> · Drought Observe</summary>
 
-<img src="img/jordan-gam.png" alt="Illustrative raster thumbnail: groundwater-irrigated parcels" width="800">
+<img src="img/droughtobservedash.jpg" alt="Drought Observe" width="800">
 
-![Design phase][DesignPhase]
+A drought monitoring system from the WaterPIP project, with near real-time drought intensity maps for Africa at 250 m and monthly steps, piloted in Kenya, Ethiopia and Mozambique.
 
-Will estimate water consumption in millimetres and cubic metres at farm and area level, and compare it with abstracted groundwater to support sustainable management.
+**Method:** SPAEI from long-term dekadal water surplus and deficit (P − RET) fitted to a log-logistic distribution, then a decision-tree model regressing SPAEI against WaPOR phenology, land cover, precipitation, NDVI and temperature. Runs in Google Earth Engine.
 
-**Partners:** Ministry of Water and Irrigation, Jordan Water Authority and University of Jordan, with IWMI.
-
-**Area:** Jafer, southern Jordan, under 50 mm of rainfall a year.
-
-[![Button]][fao-jordan]
+[![Button]](https://waterpiporg.users.earthengine.app/view/dms)
 
 </details>
 
